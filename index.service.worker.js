@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788368378|2167171';
+const CACHE_VERSION = '1788371039|2140139';
 /** @type {string} */
 const CACHE_PREFIX = 'Patina-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
